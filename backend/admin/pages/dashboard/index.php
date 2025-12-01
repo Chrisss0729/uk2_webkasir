@@ -527,7 +527,7 @@ $page = 'dashboard';
                 </div>
             </div>
 
-            <!-- Stok Menipis -->
+            <!-- Stok Menipisss -->
             <div class="card">
                 <div class="card-header">
                     <h5 class="card-title"><span>⚠️</span> Stok Menipis</h5>
